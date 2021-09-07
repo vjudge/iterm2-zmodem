@@ -24,9 +24,10 @@ Regular expression: \*\*B00000000000000
 Action: Run Silent Coprocess
 Parameters: /usr/local/bin/iterm2-recv-zmodem.sh
 ```
+
 ![item2配置](https://github.com/vjudge/iterm2-zmodem/blob/main/item2-cfg.webp)
 
 
 ### 使用方法
-* 将文件传到远端服务器：rz
-* 将文件从远端服务器下载: sz 文件名
+* 将文件传到远端服务器:  rz
+* 将文件从远端服务器下载:  sz [文件名]
