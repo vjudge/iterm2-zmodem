@@ -29,5 +29,5 @@ Parameters: /usr/local/bin/iterm2-recv-zmodem.sh
 
 
 ### 使用方法
-* 将文件传到远端服务器:  rz
+* 将文件传到远端服务器:  rz -be
 * 将文件从远端服务器下载:  sz [文件名]
